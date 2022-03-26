@@ -1,0 +1,101 @@
+{
+  "contract1": [
+    {
+      "columns": [
+        {
+          "title": "Id",
+          "dataIndex": "id",
+          "key": "id"
+        },
+        {
+          "title": "Kontrat",
+          "dataIndex": "contract",
+          "key": "contract"
+        },
+        {
+          "title": "Teklif",
+          "dataIndex": "offer",
+          "key": "offer"
+        },
+        {
+          "title": "Data",
+          "dataIndex": "data",
+          "key": "data"
+        }
+      ],
+      "dataSource": [
+        {
+          "id": 1,
+          "contract": 2019,
+          "offer": 78125,
+          "data": "Alış"
+        },
+        {
+          "id": 2,
+          "contract": 2019,
+          "offer": 78125,
+          "data": "Satış"
+        },
+        {
+          "id": 3,
+          "contract": 2019,
+          "offer": 1485,
+          "data": "Satış"
+        },
+        {
+          "id": 4,
+          "contract": 2018,
+          "offer": 12444,
+          "data": "Satış"
+        },
+        {
+          "id": 5,
+          "contract": 2018,
+          "offer": 255,
+          "data": "Alış"
+        }
+      ]
+  }
+],
+"contract2": [
+  {
+    "columns": [
+      {
+        "title": "Label",
+        "dataIndex": "label",
+        "key": "label"
+      },
+      {
+        "title": "Value",
+        "dataIndex": "value",
+        "key": "value"
+      },
+      {
+        "title": "Data",
+        "dataIndex": "data",
+        "key": "data"
+      }
+    ],
+    "dataSource": [
+      {
+        "id": 1,
+        "label": "ABC12345",
+        "value": 254,
+        "data": "Alış"
+      },
+      {
+        "id": 2,
+        "label": "DEF57689",
+        "value": 6448,
+        "data": "Satış"
+      },
+      {
+        "id": 3,
+        "label": "GHI45678",
+        "value": 5020,
+        "data": "Satış"
+      }
+    ]
+}
+]
+}
